@@ -3,7 +3,7 @@
 Mock mongod
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/mongod-mock/master.svg)](https://travis-ci.org/ForbesLindesay/mongod-mock)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/mongod-mock.svg)](https://gemnasium.com/ForbesLindesay/mongod-mock)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/mongod-mock.svg)](https://david-dm.org/ForbesLindesay/mongod-mock)
 [![NPM version](https://img.shields.io/npm/v/mongod-mock.svg)](https://www.npmjs.org/package/mongod-mock)
 
 ## Installation
