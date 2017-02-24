@@ -1,5 +1,7 @@
 # mongod-mock
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/mongod-mock.svg)](https://greenkeeper.io/)
+
 Mock mongod
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/mongod-mock/master.svg)](https://travis-ci.org/ForbesLindesay/mongod-mock)
