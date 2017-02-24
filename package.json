@@ -4,9 +4,9 @@
   "description": "Mock mongod",
   "keywords": [],
   "dependencies": {
-    "clone": "~0.1.17",
+    "clone": "~2.1.0",
     "manip": "~0.9.3",
-    "promise": "~5.0.0",
+    "promise": "~7.1.1",
     "mongomatch": "~0.1.0"
   },
   "devDependencies": {
